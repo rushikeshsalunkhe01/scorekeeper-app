@@ -53,7 +53,7 @@ VictoryScore is a simple and responsive score-tracking web application. It allow
 
 The app is hosted on **Netlify**. You can access it here:
 
-[VictoryScore - Live Demo](https://your-netlify-url.com)
+[VictoryScore - Live Demo](https://scoremate.netlify.app/)
 
 ## Usage
 
@@ -72,9 +72,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-### Customization:
-
-- **Project Name**: Replace `VictoryScore` if you choose a different project name.
-- **Netlify URL**: Replace `https://your-netlify-url.com` with your actual deployed URL from Netlify.
-- **Additional Information**: Feel free to add any extra sections like screenshots, usage examples, or troubleshooting steps.
 
